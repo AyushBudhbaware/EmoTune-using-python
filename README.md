@@ -1,4 +1,4 @@
-# Emotion_recognition-using-python
+# EmoTune-using-python
 This Python script uses OpenCV and DeepFace to detect emotions in real-time from a webcam and plays corresponding background music using Pygame.
 
 Requirements
